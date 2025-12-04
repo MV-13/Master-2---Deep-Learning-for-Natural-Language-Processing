@@ -7,7 +7,6 @@ Both labs focus on building and analyzing neural language models, from simple ba
 
 ## 🔹 Lab 1 — Bag-of-Words & CNN for Text Classification
 
-### What is done
 - Preprocessing of textual data (tokenization, vocabulary building, batching).
 - Implementation of two models for sentence classification:
   - **Bag-of-Words MLP**  
@@ -19,7 +18,7 @@ Both labs focus on building and analyzing neural language models, from simple ba
 
 ## 🔹 Lab 2 — Neural N-gram & LSTM Language Models
 
-### What is done
+
 - Preprocessing for language modeling (special tokens, padding, mask).
 - **Neural trigram model**:
   - Embeddings + feed-forward network over a 2-word context
